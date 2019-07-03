@@ -15,8 +15,8 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="chicknham-insides.svg"
-   inkscape:export-filename="/home/f/chicknham-insides.png"
+   sodipodi:docname="chicknham-plate2-side1.svg"
+   inkscape:export-filename="/home/f/make_chicken_ham/chicknham-plate2-side1.png"
    inkscape:export-xdpi="300"
    inkscape:export-ydpi="300">
   <defs
@@ -29,7 +29,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.72"
-     inkscape:cx="190.55194"
+     inkscape:cx="48.400777"
      inkscape:cy="119.20223"
      inkscape:document-units="in"
      inkscape:current-layer="layer1"
@@ -60,7 +60,7 @@
      transform="translate(0,-861.11215)">
     <rect
        ry="5.3764462"
-       style="fill:none;fill-opacity:0.72701153;stroke:#737373;stroke-width:1.07772219;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.15544424, 2.15544424;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:none;fill:none;fill-opacity:0.72701153;stroke:#737373;stroke-width:1.07772219;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.15544424, 2.15544424;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4179"
        width="32.672279"
        height="77.672279"
@@ -144,7 +144,7 @@
        height="77.672279"
        width="32.672279"
        id="rect4254"
-       style="fill:none;fill-opacity:0.72701153;stroke:#737373;stroke-width:1.07772219;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.15544424, 2.15544424;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:none;fill:none;fill-opacity:0.72701153;stroke:#737373;stroke-width:1.07772219;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.15544424, 2.15544424;stroke-dashoffset:0;stroke-opacity:1"
        ry="5.3764462" />
     <g
        transform="translate(3.8146973e-6,-168.75003)"
@@ -230,7 +230,7 @@
        xml:space="preserve"
        id="flowRoot7215"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       transform="matrix(0,-1,1,0,87.717344,976.64199)"><flowRegion
+       transform="matrix(0,-1,1,0,87.717344,964.64199)"><flowRegion
          id="flowRegion7217"><rect
            id="rect7219"
            width="103.48837"
@@ -241,42 +241,42 @@
          id="flowPara7221">Verify confirmation: </flowPara></flowRoot>    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="-932.40253"
+       x="-920.40253"
        y="18.198448"
        id="text7223"
        sodipodi:linespacing="125%"
        transform="matrix(0,-1,1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan7225"
-         x="-932.40253"
+         x="-920.40253"
          y="18.198448">Pulpiest</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10px;line-height:125%;font-family:'Ubuntu Mono';-inkscape-font-specification:'Ubuntu Mono';letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="868.95746"
-       y="-287.38403"
+       x="908.95746"
+       y="-285.38403"
        id="text7227"
        sodipodi:linespacing="125%"
        transform="matrix(0,1,-1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan7229"
-         x="868.95746"
-         y="-287.38403">Batch #</tspan></text>
+         x="908.95746"
+         y="-285.38403">Batch #</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:15px;line-height:125%;font-family:Georgia;-inkscape-font-specification:Georgia;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="914.25739"
-       y="-287.52054"
+       x="954.25739"
+       y="-285.52054"
        id="text7231"
        sodipodi:linespacing="125%"
        transform="matrix(0,1,-1,0,0,0)"><tspan
          sodipodi:role="line"
          id="tspan7233"
-         x="914.25739"
-         y="-287.52054">0/4-10</tspan></text>
+         x="954.25739"
+         y="-285.52054">0/4-10</tspan></text>
     <rect
        ry="5.3764462"
-       style="fill:none;fill-opacity:0.72701153;stroke:#737373;stroke-width:1.07772219;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.15544424, 2.15544424;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:none;fill:none;fill-opacity:0.72701153;stroke:#737373;stroke-width:1.07772219;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.15544424, 2.15544424;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4179-1"
        width="32.672279"
        height="77.672279"
@@ -284,7 +284,7 @@
        y="861.651" />
     <rect
        ry="5.3764462"
-       style="fill:none;fill-opacity:0.72701153;stroke:#737373;stroke-width:1.07772219;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.15544424, 2.15544424;stroke-dashoffset:0;stroke-opacity:1"
+       style="display:none;fill:none;fill-opacity:0.72701153;stroke:#737373;stroke-width:1.07772219;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:2.15544424, 2.15544424;stroke-dashoffset:0;stroke-opacity:1"
        id="rect4179-5"
        width="32.672279"
        height="77.672279"
