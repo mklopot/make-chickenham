@@ -1,3 +1,5 @@
+#!/usr/bin/python3.6
+
 import math
 import sys
 import secrets
@@ -33,7 +35,7 @@ del seed
 
 print("\n\n")
 
-rs = reedsolo.RSCodec(20)
+rs = reedsolo.RSCodec(10)
 for share in shares:
     pos = share.index("-")
     share = share.replace('-', "")
