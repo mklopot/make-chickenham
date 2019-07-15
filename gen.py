@@ -37,6 +37,8 @@ print("\n\n")
 
 rs = reedsolo.RSCodec(10)
 for share in shares:
+    if not len(share) % 2:
+        share = "0" + share
     pos = share.index("-")
     share = share.replace('-', "")
     encoded = rs.encode(bytes.fromhex(share)).hex()
