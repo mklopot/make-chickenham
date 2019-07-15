@@ -10,6 +10,10 @@ import split
 import combine
 from pycoin.symbols.btc import network
 
+show_private = False
+if "--show-private" in sys.argv:
+    show_private = True
+    sys.argv.remove("--show-private")
 threshold = int(sys.argv[1])
 number = int(sys.argv[2])
 
@@ -30,10 +34,16 @@ for combo in combos:
     if combiner(combo) != seed:
         raise ValueError("Failed validating split shares")
 
-addr = network.keys.private(secret_exponent=int(seed, 16)).address()
+if show_private:
+    key = network.keys.private(secret_exponent=int(seed, 16))
+    wif = key.wif()
+    addr = key.address()
+    del key
+else:
+    addr = network.keys.private(secret_exponent=int(seed, 16)).address()
 del seed
 
-print("\n\n")
+print("\n")
 
 rs = reedsolo.RSCodec(10)
 for share in shares:
@@ -44,5 +54,7 @@ for share in shares:
     encoded = rs.encode(bytes.fromhex(share)).hex()
     with_dash = encoded[:pos] + "-" + encoded[pos:]
     print(with_dash.upper())
-print("\nAddress:")
-print(addr)
+
+if show_private:
+    print("\nPrivate:\n{}".format(wif))
+print("\nAddress:\n{}".format(addr))
